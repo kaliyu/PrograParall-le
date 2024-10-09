@@ -1,0 +1,3 @@
+20210918 Fix sign, endianness and overflow handling
+20210916 Fix format registration
+20210914 Inital release
